@@ -109,7 +109,7 @@ ol {
 
 /* !!!!!!!!!!!!!!!! IMAGES !!!!!!!!!!!!!!!!!!!! */
 .section-team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .title-team {
@@ -126,7 +126,6 @@ ol {
 }
 
 .img-list {
-  background-color: #ffffff;
 }
 
 /* !!!!!!!!!!!!!!! PORTFOLIO !!!!!!!!!!!!!!!!!!!! */
@@ -136,9 +135,9 @@ ol {
 
 .title-portfolio {
   color: #2e2f42;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
+  font-size: 20p;
+  font-weight: 500;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
