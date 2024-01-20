@@ -75,7 +75,7 @@ ol {
 }
 
 .hero-btn:hover,
-.hero-btm:focus {
+.hero-btn:focus {
   background-color: #404bbf;
 }
 
@@ -136,7 +136,7 @@ ol {
 
 .title-portfolio {
   color: #2e2f42;
-  font-size: 20p;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
